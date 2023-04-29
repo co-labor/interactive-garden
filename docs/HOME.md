@@ -1,6 +1,6 @@
 layout: page
 title: "le jardin interactif - co-labor"
-permalink: /home
+permalink: /
 
 # interactive-garden
 add some (digital) fun to observing nature
